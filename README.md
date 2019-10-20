@@ -7,7 +7,7 @@
  
 ### Installation
 
-- `git clone {url}`
+- `git clone git@github.com:HarshNagra/Reference-ReactNative-Calculator.git`
 - `yarn install`/`npm install`
 
 ### Running
