@@ -1,5 +1,6 @@
 # Reference-ReactNative-Calculator
  Incomplete Calculator - Please follow the self learning tutorial to complete it. 
+ (FOR COURSE COMP3330 ONLY)
  
 ### Requirements
  - Node and NPM
